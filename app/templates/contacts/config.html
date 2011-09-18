@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+
+{% block workbar %}
+<div id = "workbar">
+	<div class="logo"><img src="{{ url_for('static', filename='img/wordlogo.png') }}" /></div>
+
+		</div>
+</div>
+</header>
+{% endblock %}
+
+{% block content %} 
+<div id="main" role="main">
+	<div class="l">
+		
+		<div class="selection"> 
+			
+		<ol>
+			<li> </li>
+		</ol>
+		</div>
+	</div>
+	<div class="m">
+		<h3>Contact sharing preferences</h3>
+		
+		<ol class="formfields">
+			<li>Folder to share<br/><input value="Shared Contacts"></input> </li>
+		</ol>
+		<br/>
+<div><a class="button_save" href="#opslaan">Opslaan</a></div>
+	</div>
+{% endblock %}

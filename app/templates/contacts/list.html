@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+
+
+{% block workbar %}
+<div id = "workbar">
+	<div class="logo"><img src="{{ url_for('static', filename='img/wordlogo.png') }}" /></div>
+	<div class="search"><input placeholder="Zoeken"></input><a class="button_normal" href="#zoek">Zoek</a></div>
+	<div class="toolbar"><ol class="toolbar"><a href="#print"><li><img src="{{ url_for('static', filename='img/tb-print.png') }}" /></li></a><a href="#mail"><li><img src="{{ url_for('static', filename='img/tb-mail.png') }}" /></li></a></ol>
+	</div>
+</div>
+</header>
+{% endblock %}
+
+{% block content %}
+
+
+ <div id="main" role="main">
+	<div class="l">
+		<div class="commands">3 Contacts | <a href="#ownorg">Organisation</a>
+			<div class="refresh_indicator"><img src="{{ url_for('static', filename='img/tb-refresh.png') }}" /></div>
+		</div>
+		<div class="selection">Met selectie: <a href="#verwijderen">Verwijderen</a>
+			<ol>
+				<li><input type="checkbox" /><a href="#">Marco Kotrotsos</a></li>
+				<li><input type="checkbox" /><a href="#">Ernst-Jan van Gils</a></li>
+				<li><input type="checkbox" /><a href="#">Wouter Hassing</a></li>
+				
+				</ol></div>
+	</div>
+	<div class="m">
+		<div class="identitycard clearfix">
+			<div class="profile_image">
+				<img src="http://placekitten.com/g/75/75" />
+			</div>
+			<div class="info">
+				<div class="fullname">
+					Marco Kotrotsos
+				</div>
+				<div class="more">
+					Letterpress gentrify fixie, fap mixtape vice art party stumptown artisan terry richardson cosby sweater quinoa squid fanny pack. 
+				</div><a href="#">Edit</a>
+			</div>
+			
+		
+			
+		</div>	
+		<div class="comment">
+			<h4>Voeg een notitie toe aan Marco</h4>
+			<div class="inputsection"><textarea rows="5" cols="60">
+			</textarea></div>
+			<div><a class="button_save" href="#opslaan">Notitie opslaan</a></div>
+		</div>
+	</div>
+	<div class="r">
+		<a class="button_edit" href="#aanpassen">Aanpassen</a>
+		<div class="allinfo">
+			<section><h3 class="ownorg">Person belongs to your organisation</h3>
+		
+			<p><input type="checkbox" />Administrator</p>
+			</section>
+			<section><h3>Persoonlijk</h3>
+			<p>Kandinskystraat 29</p>	
+			</section>
+			<section><h3>Werk</h3>
+			<p>Kandinskystraat 29</p>		
+			<p>1328KC Almere</p>	
+			<p>036-5451952</p>	
+			
+			
+			</section>
+		</div>
+</div>
+{% endblock %}

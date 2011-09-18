@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+
+{% block workbar %}
+<div id = "workbar">
+	<div class="logo"><img src="{{ url_for('static', filename='img/wordlogo.png') }}" /></div>
+	<div class="search"><input placeholder="Zoeken"></input><a class="button_normal" href="#zoek">Zoek</a></div>
+	<div class="toolbar"><ol class="toolbar"><a href="#print"><li><img src="{{ url_for('static', filename='img/tb-print.png') }}" /></li></a><a href="#mail"><li><img src="{{ url_for('static', filename='img/tb-mail.png') }}" /></li></a></ol>
+	</div>
+</div>
+</header>
+{% endblock %}
+
+{% block content %}
+
+
+
+<div id="main" role="main">
+<div class="l">
+	
+	<div class="selection">Titel: 
+	
+	</div>
+</div>
+<div class="m">
+	empty
+
+</div>
+
+
+</div>
+{% endblock %}
