@@ -490,8 +490,15 @@ border:solid #D2D2D2 1px;
 }
 
 .m .notselected {
+
+margin-top:40px;
+}
+
+.m .startbysearching {
 text-align:center;
-margin-top:50px;
+}
+.m .startbyselecting {
+margin-top:40px;
 }
 
 .r {

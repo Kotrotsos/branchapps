@@ -18,10 +18,15 @@ def contactsconfig():
 
 @app.route("/contacts/result")
 def result():
-
 	return render_template('contacts/result.html')
+	
+@app.route("/start")
+def homepage():
+	return render_template('start.html')
 
-
+@app.route("/landing")
+def homepage():
+	return render_template('landing.html')
 
 
 @app.route("/contacts/list")
