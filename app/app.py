@@ -26,7 +26,8 @@ def homepage():
 
 @app.route("/landing")
 def homepage():
-	return render_template('landing.html')
+	my = 'yo'
+	return render_template('landing.html', my=my)
 
 
 @app.route("/contacts/list")
