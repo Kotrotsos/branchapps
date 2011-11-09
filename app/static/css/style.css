@@ -489,6 +489,33 @@ margin-bottom:10px;
 border:solid #D2D2D2 1px;
 }
 
+
+.m .comment ul {
+	padding:0;margin:0;
+
+	list-style:none;
+}
+.m .comment ul li {
+	margin-right:30px;
+
+	margin-bottom:5px;
+	padding-bottom:5px;
+	padding-left:5px;
+	line-height:1.3em;
+	color:#666;
+	border-bottom:dotted lightgray 1px;
+}
+.m .comment ul li:last-child {
+	
+
+	border-bottom:none;
+}
+
+.m .comment .commentowner {
+	color:black;
+	font-weight:bold;
+	font-size:0.9em;
+}
 .m .notselected {
 
 margin-top:40px;
@@ -586,6 +613,8 @@ padding-right:5px;
 font-weight:bold;
 
 }
+
+
 
 /* PLUGIN CSS */
 
