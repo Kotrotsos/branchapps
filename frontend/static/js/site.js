@@ -26,7 +26,8 @@ var Ba = {
                 "!/crm":"crm",
                 "!/hrm":"hrm",
                 "!/projects":"projects",
-                "!/error":"error"
+                "!/error":"error",
+                '*path':  'defaultRoute'
                 //"search/:query":"search", // #search/kiwis
                 //"search/:query/p:page":"search"   // #search/kiwis/p7
             },
@@ -64,7 +65,11 @@ var Ba = {
             },
             error:function() {
                 var template = Handlebars.compile(getFromRemote('templates/error.html'));
-                $('#main').html(template({}));
+                $('#primary').html(template({}));
+            },
+            defaultRoute:function(){
+                var template = Handlebars.compile(getFromRemote('templates/404.html'));
+                $('#primary').html(template({}));
             }
 
         });
