@@ -22,10 +22,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="site.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="site.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/site.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="8" selection-start="1435" selection-end="1435" vertical-scroll-proportion="-8.36">
+            <state line="118" column="36" selection-start="4422" selection-end="4422" vertical-scroll-proportion="0.72209024">
               <folding />
             </state>
           </provider>
@@ -40,24 +40,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="site.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/js/site.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="22" selection-start="2403" selection-end="2403" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crm.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/templates/crm.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="71" selection-start="148" selection-end="148" vertical-scroll-proportion="-2.28">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="sharedcontacts.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/templates/sharedcontacts.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,10 +49,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fourblocks.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="fourblocks.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/templates/fourblocks.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="39" selection-start="882" selection-end="882" vertical-scroll-proportion="0.8574822">
+            <state line="10" column="79" selection-start="474" selection-end="474" vertical-scroll-proportion="-0.76">
               <folding />
             </state>
           </provider>
@@ -114,12 +96,12 @@
         <option value="$PROJECT_DIR$/static/templates/hrm.html" />
         <option value="$PROJECT_DIR$/static/templates/projects.html" />
         <option value="$PROJECT_DIR$/static/templates/support.html" />
-        <option value="$PROJECT_DIR$/static/site.html" />
         <option value="$PROJECT_DIR$/static/js/plugins.js" />
         <option value="$PROJECT_DIR$/static/templates/404.html" />
         <option value="$PROJECT_DIR$/static/js/site.js" />
         <option value="$PROJECT_DIR$/static/templates/sharedcontacts.html" />
         <option value="$PROJECT_DIR$/static/templates/fourblocks.html" />
+        <option value="$PROJECT_DIR$/static/site.html" />
       </list>
     </option>
   </component>
@@ -432,13 +414,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/site.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="8" selection-start="1435" selection-end="1435" vertical-scroll-proportion="-8.36">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/plugins.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
@@ -469,7 +444,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/templates/fourblocks.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="39" selection-start="882" selection-end="882" vertical-scroll-proportion="0.8574822">
+        <state line="10" column="79" selection-start="474" selection-end="474" vertical-scroll-proportion="-0.76">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/site.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="36" selection-start="4422" selection-end="4422" vertical-scroll-proportion="0.72209024">
           <folding />
         </state>
       </provider>
