@@ -88,8 +88,8 @@ ol.account a:hover {
 }
 
 .workbar .logo {
-    width:20%;
-    float:left;
+z-index:9999;
+
 }
 .workbar .search {
     float:left;
@@ -129,7 +129,7 @@ header {
 header .navarea {
    position:relative;
     left:120px;
-    top:13px;
+    top:25px;
 }
 
 header .nav li a {
@@ -139,11 +139,7 @@ header .nav li a {
     float:left;
 }
 
-header .products {
-    position:relative;
-    top:35px;
-    left:160px;
-}
+
 
 .hero {
     padding-top:20px;
