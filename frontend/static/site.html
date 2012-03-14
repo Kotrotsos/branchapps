@@ -3,9 +3,14 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Branchapps biedt innovatieve Google Apps oplossingen</title>
+    <title>Branchapps offers innovative and easy to use Google Apps solutions</title>
     <meta name="description" content="Branchapps Contact sharing, CRM, HRM">
     <meta name="author" content="Mlabs.nl">
+    <meta http-equiv="imagetoolbar" content="false">
+    <meta name="application-name" content="Branchapps">
+
+    <link rel="shortcut icon" href="/static/favicon.png">
+
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -27,10 +32,26 @@
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-62126-75']);
+        _gaq.push(['_trackPageview']);
+
+        (function(a){var b,c=function(b){var c=a.document.createElement("a");return c.href=b,c};a.onerror=function(d,e,f){var g=c(e).hostname;_gaq.push(["_trackEvent",(g==a.location.hostname||g==b||g==""?"":"external ")+"error",d,e+" LINE: "+f,b,b,!0])}})(window)
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+
 </head>
 
 <body>
-
 
 <div class="container">
     <header>
@@ -40,15 +61,22 @@
                 <div class="row">
                     <div class="span6"><div class="logo"><a href="#!"><img src="/static/img/logo.png"></a></div></div>
                     <div class="span6">
-                        <div class="follow">
-                            <a href="https://twitter.com/branchapps" class="twitter-follow-button" data-show-count="false">Follow @branchapps</a>
-                            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
                     </div>
                     <div class="navarea">
-                        <ul class="nav">
-                            <li><a href="#!/oplossingen">OPLOSSINGEN</a></li>
+                        <ul class="nav nav-pills">
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">PRODUCTS <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#!/sharedcontacts">Shared contacts</a></li>
+                                    <li><a href="#!/crm">CRM</a></li>
+                                    <li><a href="#!/hrm">HRM</a></li>
+                                    <li><a href="#!/projects">Projects & Timewriting</a></li>
+                                </ul>
+                            </li>
                             <li><a href="#!/support">SUPPORT</a></li>
                             <li><a href="#">MARKETPLACE</a></li>
+
+
                         </ul>
 
                     </div>
@@ -74,8 +102,8 @@
             <div class="span4">
                 <ul class="nav">
                     <li class="nav-header">Site</li>
-                    <li><a href="#!">Branchapps</a></li>
-                    <li><a href="#!/oplossingen">Oplossingen</a></li>
+
+                    <li><a href="#!/oplossingen">Products</a></li>
                     <li><a href="#!/support">Support</a></li>
                     <li><a href="#">Marketplace</a></li>
                 </ul>
@@ -84,17 +112,21 @@
             <div class="span4">
                 <ul class="nav">
                     <li class="nav-header">Producten</li>
-                    <li><a href="#">Contact sharing</a></li>
-                    <li><a href="#">CRM</a></li>
-                    <li><a href="#">HRM</a></li>
-                    <li><a href="#">Projecten</a></li>
+                    <li><a href="#!/sharedcontacts">Shared contacts</a></li>
+                    <li><a href="#!crm">CRM</a></li>
+                    <li><a href="#!hrm">HRM</a></li>
+                    <li><a href="#!projects">Projects</a></li>
+                    <li><a href="#!projects">Timewriting</a></li>
                 </ul>
             </div>
 
             <div class="span4">
                 <ul class="nav">
                     <li class="nav-header">Social Media</li>
-                    <li><a href="#">Volg ons op Twitter</a></li>
+                    <li><div class="follow">
+                        <a href="https://twitter.com/branchapps" class="twitter-follow-button" data-show-count="false">Follow @branchapps</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+            </div></li>
 
 
                 </ul>
@@ -111,6 +143,7 @@
 <script src="js/underscore.js"></script>
 <script src="js/backbone.js"></script>
 <script src="js/bootstrap.js"></script>
+<script src="js/plugins.js"></script>
 <script src="http://cloud.github.com/downloads/wycats/handlebars.js/handlebars-1.0.0.beta.6.js"></script>
 <script src="js/lib.js"></script>
 <script src="js/site.js"></script>

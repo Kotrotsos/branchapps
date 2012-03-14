@@ -19,7 +19,9 @@
     margin-left:-20px;
 }
 
-
+.airtop10 {
+    padding-top:10px;
+}
 .airtop50 {
     padding-top:50px;
 }
@@ -116,9 +118,8 @@ header .logo {
     padding-left:10px;
 }
 
-header .follow {
-    position:absolute;
-    right:-55px;
+.follow {
+
 }
 header {
     font-family: 'Open Sans';
@@ -127,7 +128,7 @@ header {
 
 header .navarea {
    position:relative;
-    left:180px;
+    left:120px;
     top:13px;
 }
 
@@ -138,8 +139,20 @@ header .nav li a {
     float:left;
 }
 
+header .products {
+    position:relative;
+    top:35px;
+    left:160px;
+}
+
 .hero {
     padding-top:20px;
+}
+
+.marketplace-button {
+    position:relative;
+    top:10px;
+    left:20px;
 }
 h1 {
     font-size:36px;
@@ -149,10 +162,17 @@ h1 {
     padding-bottom:15px;
     padding-top:15px;
     line-height:1.3em;
+
 }
 
 h1.dark {
     color:#444;
+}
+.headlogo {
+    position:relative;
+    top:8px;
+    left:15px;
+
 }
 p {
     font-size:1.1em;
@@ -186,7 +206,7 @@ p {
 footer {
     background-color:#444;
     position:relative;
-    top:150px;
+    top:100px;
     color:white;
     padding:20px;
 }

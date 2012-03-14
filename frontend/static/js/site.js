@@ -22,12 +22,22 @@ var Ba = {
                 "!":"root",
                 "!/oplossingen":"oplossingen",
                 "!/support":"support",
+                "!/sharedcontacts":"sharedcontacts",
+                "!/crm":"crm",
+                "!/hrm":"hrm",
+                "!/projects":"projects",
                 "!/error":"error"
                 //"search/:query":"search", // #search/kiwis
                 //"search/:query/p:page":"search"   // #search/kiwis/p7
             },
             initialize:function() {
-
+                if(typeof _gaq !== 'undefined'){
+                    this.bind('route', function(){
+                        // transform AJAX URLs into "like real" ones
+                        var url = document.location.href.replace(/\/?#!/, '/');
+                        _gaq.push(['_trackPageview', url]);
+                    });
+                }
             },
             root:function() {
                 Views.render_home();
@@ -35,6 +45,20 @@ var Ba = {
             oplossingen:function() {
                 Views.render_oplossingen();
             },
+
+            sharedcontacts:function() {
+                Views.render_sharedcontacts();
+            },
+            crm:function() {
+                Views.render_crm();
+            },
+            hrm:function() {
+                Views.render_hrm();
+            },
+            projects:function() {
+                Views.render_projects();
+            },
+
             support:function() {
                 Views.render_support();
             },
@@ -79,10 +103,35 @@ var Views = {
         $('#primary').html(oplossingen({}));
         $('#fourblocks').html(blocks({}));
     },
+
+    render_sharedcontacts: function() {
+        this.init();
+        var sharedcontacts = Handlebars.compile(getFromRemote('templates/sharedcontacts.html'))
+        $('#primary').html(sharedcontacts({}));
+
+    },
+    render_crm: function() {
+        this.init();
+        var crm = Handlebars.compile(getFromRemote('templates/crm.html'))
+        $('#primary').html(crm({}));
+    },
+    render_hrm: function() {
+        this.init();
+        var hrm = Handlebars.compile(getFromRemote('templates/hrm.html'))
+        $('#primary').html(hrm({}));
+    },
+    render_projects: function() {
+        this.init();
+        var projects = Handlebars.compile(getFromRemote('templates/projects.html'))
+        $('#primary').html(projects({}));
+    },
+
+
+
+
     render_support: function() {
         this.init();
         var support = Handlebars.compile(getFromRemote('templates/support.html'));
-
         $('#primary').html(support({}));
 
     }

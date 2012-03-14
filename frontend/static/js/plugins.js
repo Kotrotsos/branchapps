@@ -1,7 +1,12 @@
-/**
- * Created by JetBrains WebStorm.
- * User: me
- * Date: 2/4/12
- * Time: 9:39 AM
- * To change this template use File | Settings | File Templates.
+
+
+/*
+ * Log all jQuery AJAX requests to Google Analytics
+ * See: www.alfajango.com/blog/track-jquery-ajax-requests-in-google-analytics/
  */
+if (typeof _gaq !== "undefined" && _gaq !== null) {
+    $(document).ajaxSend(function(event, xhr, settings){
+        _gaq.push(['_trackPageview', settings.url]);
+    });
+}
+
