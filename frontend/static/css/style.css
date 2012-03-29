@@ -194,7 +194,9 @@ p {
 .infoblock p {
     color:white;
 
-
+}
+.infoblocks a:hover {
+    text-decoration:none;
 }
 
 footer {
