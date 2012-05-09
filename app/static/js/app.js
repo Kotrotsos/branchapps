@@ -1,22 +1,13 @@
 
 
-
-
-var main  = $('#main-template-contents');
-var sidebar  = $('#sidebar-template-contents');
-
-var app; // The Backbone application object
-
-
-
-
+var app; // The application object
 
 var BA = {
     init: function() {
         this.setupRoutes();
         this.setupEvents();
 
-
+        // Someone enters, it is always a user.
         app.user = new User;
         log("signed in? ", app.user.isSignedIn());
 
@@ -36,8 +27,7 @@ var BA = {
                 "!":"root",
                 "!/cs":"cs",
                 '*path':  'defaultRoute'
-                //"search/:query":"search", // #search/kiwis
-                //"search/:query/p:page":"search"   // #search/kiwis/p7
+
             },
             initialize:function() {
 
@@ -52,7 +42,7 @@ var BA = {
 
             cs: function() {
                 Views.render_main_cs_view();
-                Views.notify('title','suuuuuujaaa',"block")
+                //Views.notify('title','xx',"block")
 
             }
 
@@ -60,9 +50,7 @@ var BA = {
 
         app = new RoutedApp;
         Backbone.history.start();
-
     }
-
 
 }; //end
 

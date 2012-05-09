@@ -1,12 +1,14 @@
 
-/* OVERULED BOOTSTRAP STYLES */
+/* OVERULED BOOTSTRAP STYLES
+*/
 
 .btn {
 
 }
 
 
-/* Grid helpers */
+/* Grid helpers
+*/
 
 .marginreset {
     margin:0;
@@ -26,7 +28,7 @@
     padding-top:50px;
 }
 
-/* xxxx */
+
 
 body {
     min-width:760px;
@@ -88,15 +90,12 @@ ol.account a:hover {
 }
 
 .workbar .logo {
-z-index:9999;
-float:left;
+    z-index:9999;
+    float:left;
 }
 .workbar .search {
-margin-top:-5px;
-
+    margin-top:-5px;
     margin-left:200px;
-
-
 }
 .workbar .search button {
     margin-top:-9px;
@@ -108,14 +107,13 @@ margin-top:-5px;
     width:400px;
 }
 .workbar .toolbar {
-   position:absolute;
+    position:absolute;
     right:10px;
     width:100px;
     margin-top:-18px;
-
 }
 
-/*
+/* Refactor later to user Border-box sizing.
 
 * {
     -webkit-box-sizing: border-box;

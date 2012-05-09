@@ -21,79 +21,53 @@
     <favorites_list name="app" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.6564417">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/static/js/app.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="21" column="0" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="lib.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/static/js/lib.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="407" column="39" selection-start="18626" selection-end="18626" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="app.html" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/static/app.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="71" column="45" selection-start="1972" selection-end="1972" vertical-scroll-proportion="0.12658228">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="accountbar.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/static/templates/accountbar.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="26" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/static/css/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="128" column="0" selection-start="1519" selection-end="1519" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="data.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/static/js/data.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="model.js" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/static/js/model.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="31" column="37" selection-start="496" selection-end="496" vertical-scroll-proportion="1.8326694">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lib.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/lib.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="407" column="39" selection-start="18626" selection-end="18626" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/app.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="91" column="0" selection-start="2478" selection-end="2478" vertical-scroll-proportion="-16.428572">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="accountbar.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/templates/accountbar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="26" selection-start="299" selection-end="299" vertical-scroll-proportion="-3.6785715">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="30" selection-end="30" vertical-scroll-proportion="-4.203046">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -110,16 +84,16 @@
         <option value="$PROJECT_DIR$/static/js/data.js" />
         <option value="$PROJECT_DIR$/static/templates/accountbar.html" />
         <option value="$PROJECT_DIR$/static/js/lib.js" />
-        <option value="$PROJECT_DIR$/static/js/app.js" />
-        <option value="$PROJECT_DIR$/static/js/model.js" />
-        <option value="$PROJECT_DIR$/static/css/style.css" />
         <option value="$PROJECT_DIR$/static/app.html" />
+        <option value="$PROJECT_DIR$/static/js/model.js" />
+        <option value="$PROJECT_DIR$/static/js/app.js" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="835" />
-    <option name="y" value="396" />
+    <option name="x" value="825" />
+    <option name="y" value="482" />
     <option name="width" value="1536" />
     <option name="height" value="884" />
   </component>
@@ -252,15 +226,15 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node JS" working-dir="$PROJECT_DIR$">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node JS" working-dir="$PROJECT_DIR$" coffeescript-run="false">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
@@ -300,7 +274,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="835" y="396" width="1536" height="884" extended-state="0" />
+    <frame x="825" y="482" width="1536" height="884" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -392,21 +366,16 @@
         <state line="7" column="0" selection-start="156" selection-end="156" vertical-scroll-proportion="0.052770447" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/templates/accountbar.html">
+    <entry file="file://$PROJECT_DIR$/static/js/model.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="26" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0">
+        <state line="137" column="9" selection-start="2054" selection-end="2054" vertical-scroll-proportion="-0.47808766">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/model.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="37" selection-start="496" selection-end="496" vertical-scroll-proportion="1.8326694">
+        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="-4.737052">
           <folding />
         </state>
       </provider>
@@ -416,23 +385,30 @@
         <state line="407" column="39" selection-start="18626" selection-end="18626" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/app.js">
+    <entry file="file://$PROJECT_DIR$/static/templates/accountbar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="128" column="0" selection-start="1519" selection-end="1519" vertical-scroll-proportion="0.0">
+        <state line="9" column="26" selection-start="299" selection-end="299" vertical-scroll-proportion="-3.6785715">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/app.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="45" selection-start="1972" selection-end="1972" vertical-scroll-proportion="0.12658228">
+        <state line="91" column="0" selection-start="2478" selection-end="2478" vertical-scroll-proportion="-16.428572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="30" selection-end="30" vertical-scroll-proportion="-4.203046">
           <folding />
         </state>
       </provider>

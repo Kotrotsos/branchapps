@@ -2,7 +2,7 @@
 
 /*
 * NOTES: Class User and it's instance are always created at application start.
-*
+* Because a user uses the (frontend) app.
  */
 
 
@@ -24,7 +24,6 @@ var User = Backbone.Model.extend({
 
 var Contact = Backbone.Model.extend({
     initialize : function() {
-
     }
 })
 
@@ -136,7 +135,7 @@ var Contact = {
 
 var Group = {
     list: function() {
-        alert('hi')
+
     },
     show: function() {
 
