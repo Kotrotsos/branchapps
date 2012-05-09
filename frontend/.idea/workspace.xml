@@ -2,117 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="667bd1f5-1169-4786-923f-1fe6590efcb0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/.idea/.name" afterPath="$PROJECT_DIR$/../app/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/.idea/app.iml" afterPath="$PROJECT_DIR$/../app/.idea/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/../app/.idea/dataSources.ids" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/__init__.py" afterPath="$PROJECT_DIR$/../app/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/email.db" afterPath="$PROJECT_DIR$/../app/email.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/frontend/__init__.py" afterPath="$PROJECT_DIR$/../app/frontend/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/frontend/models.py" afterPath="$PROJECT_DIR$/../app/frontend/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/frontend/tests.py" afterPath="$PROJECT_DIR$/../app/frontend/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/frontend/views.py" afterPath="$PROJECT_DIR$/../app/frontend/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/manage.py" afterPath="$PROJECT_DIR$/../app/manage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/settings.py" afterPath="$PROJECT_DIR$/../app/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/static/images/logo.png" afterPath="$PROJECT_DIR$/../app/static/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/static/images/screen.png" afterPath="$PROJECT_DIR$/../app/static/images/screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/urls.py" afterPath="$PROJECT_DIR$/../app/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/frontend.iml" afterPath="$PROJECT_DIR$/.idea/frontend.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/favicon.png" afterPath="$PROJECT_DIR$/static/favicon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/appslogo.png" afterPath="$PROJECT_DIR$/static/img/appslogo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/cloud-48.png" afterPath="$PROJECT_DIR$/static/img/cloud-48.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/cog.gif" afterPath="$PROJECT_DIR$/static/img/cog.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/fulllogo.png" afterPath="$PROJECT_DIR$/static/img/fulllogo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/static/img/glyphicons-halflings-white.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/glyphicons-halflings.png" afterPath="$PROJECT_DIR$/static/img/glyphicons-halflings.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/laptop.png" afterPath="$PROJECT_DIR$/static/img/laptop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/logo.png" afterPath="$PROJECT_DIR$/static/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/mac.png" afterPath="$PROJECT_DIR$/static/img/mac.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/marketplace-addtogoogleapps-noshadow.png" afterPath="$PROJECT_DIR$/static/img/marketplace-addtogoogleapps-noshadow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/screenshot1.png" afterPath="$PROJECT_DIR$/static/img/screenshot1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/select-contact-from-list.png" afterPath="$PROJECT_DIR$/static/img/select-contact-from-list.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/startbysearching.png" afterPath="$PROJECT_DIR$/static/img/startbysearching.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/startbyselecting.png" afterPath="$PROJECT_DIR$/static/img/startbyselecting.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/tb-mail.png" afterPath="$PROJECT_DIR$/static/img/tb-mail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/tb-print.png" afterPath="$PROJECT_DIR$/static/img/tb-print.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/tb-refresh.png" afterPath="$PROJECT_DIR$/static/img/tb-refresh.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/temp-toolbar.png" afterPath="$PROJECT_DIR$/static/img/temp-toolbar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/wordlogo.png" afterPath="$PROJECT_DIR$/static/img/wordlogo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/images/logo.png" afterPath="$PROJECT_DIR$/../website-old/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/images/screen.png" afterPath="$PROJECT_DIR$/../website-old/images/screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/site1.png" afterPath="$PROJECT_DIR$/../website-old/site1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/site2-nextpage.png" afterPath="$PROJECT_DIR$/../website-old/site2-nextpage.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/site2.png" afterPath="$PROJECT_DIR$/../website-old/site2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/../app/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/.idea/dictionaries/wout.xml" afterPath="$PROJECT_DIR$/../app/.idea/dictionaries/wout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../app/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/.idea/misc.xml" afterPath="$PROJECT_DIR$/../app/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/.idea/modules.xml" afterPath="$PROJECT_DIR$/../app/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../app/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../app/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/start.sh" afterPath="$PROJECT_DIR$/../app/start.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/static/js/bootstrap-alerts.js" afterPath="$PROJECT_DIR$/../app/static/js/bootstrap-alerts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/static/js/bootstrap-buttons.js" afterPath="$PROJECT_DIR$/../app/static/js/bootstrap-buttons.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/static/js/bootstrap-dropdown.js" afterPath="$PROJECT_DIR$/../app/static/js/bootstrap-dropdown.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/static/js/bootstrap-modal.js" afterPath="$PROJECT_DIR$/../app/static/js/bootstrap-modal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/static/js/bootstrap-popover.js" afterPath="$PROJECT_DIR$/../app/static/js/bootstrap-popover.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/static/js/bootstrap-scrollspy.js" afterPath="$PROJECT_DIR$/../app/static/js/bootstrap-scrollspy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/static/js/bootstrap-tabs.js" afterPath="$PROJECT_DIR$/../app/static/js/bootstrap-tabs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/static/js/bootstrap-twipsy.js" afterPath="$PROJECT_DIR$/../app/static/js/bootstrap-twipsy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/static/style/bootstrap.css" afterPath="$PROJECT_DIR$/../app/static/style/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/static/style/bootstrap.min.css" afterPath="$PROJECT_DIR$/../app/static/style/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/static/style/screen.css" afterPath="$PROJECT_DIR$/../app/static/style/screen.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/templates/index.html" afterPath="$PROJECT_DIR$/../app/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/app.html" afterPath="$PROJECT_DIR$/static/app.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap-responsive.css" afterPath="$PROJECT_DIR$/static/css/bootstrap-responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/static/css/bootstrap-responsive.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/app.js" afterPath="$PROJECT_DIR$/static/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/backbone.js" afterPath="$PROJECT_DIR$/static/js/backbone.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/bootstrap.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/lib.js" afterPath="$PROJECT_DIR$/static/js/lib.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/model.js" afterPath="$PROJECT_DIR$/static/js/model.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/plugins.js" afterPath="$PROJECT_DIR$/static/js/plugins.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/server.js" afterPath="$PROJECT_DIR$/static/js/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/site.js" afterPath="$PROJECT_DIR$/static/js/site.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/underscore.js" afterPath="$PROJECT_DIR$/static/js/underscore.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/site.html" afterPath="$PROJECT_DIR$/static/site.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/templates/404.html" afterPath="$PROJECT_DIR$/static/templates/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/templates/crm.html" afterPath="$PROJECT_DIR$/static/templates/crm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/templates/error.html" afterPath="$PROJECT_DIR$/static/templates/error.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/templates/fourblocks.html" afterPath="$PROJECT_DIR$/static/templates/fourblocks.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/templates/hero.html" afterPath="$PROJECT_DIR$/static/templates/hero.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/templates/hrm.html" afterPath="$PROJECT_DIR$/static/templates/hrm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/templates/msg.html" afterPath="$PROJECT_DIR$/static/templates/msg.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/templates/oplossingen.html" afterPath="$PROJECT_DIR$/static/templates/oplossingen.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/templates/projects.html" afterPath="$PROJECT_DIR$/static/templates/projects.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/templates/promospace.html" afterPath="$PROJECT_DIR$/static/templates/promospace.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/templates/sharedcontacts.html" afterPath="$PROJECT_DIR$/static/templates/sharedcontacts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/templates/support.html" afterPath="$PROJECT_DIR$/static/templates/support.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/index.html" afterPath="$PROJECT_DIR$/../website-old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/js/bootstrap-alerts.js" afterPath="$PROJECT_DIR$/../website-old/js/bootstrap-alerts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/js/bootstrap-buttons.js" afterPath="$PROJECT_DIR$/../website-old/js/bootstrap-buttons.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/js/bootstrap-dropdown.js" afterPath="$PROJECT_DIR$/../website-old/js/bootstrap-dropdown.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/js/bootstrap-modal.js" afterPath="$PROJECT_DIR$/../website-old/js/bootstrap-modal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/js/bootstrap-popover.js" afterPath="$PROJECT_DIR$/../website-old/js/bootstrap-popover.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/js/bootstrap-scrollspy.js" afterPath="$PROJECT_DIR$/../website-old/js/bootstrap-scrollspy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/js/bootstrap-tabs.js" afterPath="$PROJECT_DIR$/../website-old/js/bootstrap-tabs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/js/bootstrap-twipsy.js" afterPath="$PROJECT_DIR$/../website-old/js/bootstrap-twipsy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/style/bootstrap.css" afterPath="$PROJECT_DIR$/../website-old/style/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/style/bootstrap.min.css" afterPath="$PROJECT_DIR$/../website-old/style/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../website-old/style/screen.css" afterPath="$PROJECT_DIR$/../website-old/style/screen.css" />
     </list>
     <ignored path="frontend.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -134,64 +24,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="site.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/site.html">
+      <file leaf-file-name="app.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/app.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="0" selection-start="2416" selection-end="2416" vertical-scroll-proportion="33.57143">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="promospace.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/templates/promospace.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="98" selection-start="349" selection-end="349" vertical-scroll-proportion="0.108843535">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="plugins.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/js/plugins.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sharedcontacts.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/templates/sharedcontacts.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="1557" selection-end="1557" vertical-scroll-proportion="-17.142857">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fourblocks.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/templates/fourblocks.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="79" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hero.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/templates/hero.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="17" selection-start="1127" selection-end="1127" vertical-scroll-proportion="-11.428572">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="121" column="0" selection-start="1464" selection-end="1464" vertical-scroll-proportion="0.0">
+            <state line="32" column="0" selection-start="987" selection-end="1006" vertical-scroll-proportion="0.46258503">
               <folding />
             </state>
           </provider>
@@ -224,12 +60,13 @@
         <option value="$PROJECT_DIR$/static/templates/sharedcontacts.html" />
         <option value="$PROJECT_DIR$/static/templates/hero.html" />
         <option value="$PROJECT_DIR$/static/templates/promospace.html" />
+        <option value="$PROJECT_DIR$/static/ember/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1002" />
-    <option name="y" value="188" />
+    <option name="x" value="849" />
+    <option name="y" value="406" />
     <option name="width" value="1536" />
     <option name="height" value="884" />
   </component>
@@ -251,7 +88,7 @@
       <flattenPackages />
       <showMembers />
       <showModules />
-      <showLibraryContents ProjectPane="false" />
+      <showLibraryContents ProjectPane="true" />
       <hideEmptyPackages />
       <abbreviatePackageNames />
       <autoscrollToSource />
@@ -259,6 +96,16 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -266,6 +113,12 @@
               <option name="myItemId" value="frontend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="frontend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -282,92 +135,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
@@ -407,13 +188,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1002" y="188" width="1536" height="884" extended-state="0" />
-    <editor active="true" />
+    <frame x="849" y="406" width="1536" height="884" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32980832" sideWeight="0.0" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17250496" sideWeight="0.0" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -484,11 +265,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/templates/error.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-7.7959642" />
@@ -529,35 +305,35 @@
         <state line="83" column="22" selection-start="2403" selection-end="2403" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/plugins.js">
+    <entry file="file://$PROJECT_DIR$/static/site.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" />
+        <state line="63" column="0" selection-start="2416" selection-end="2416" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/templates/fourblocks.html">
+    <entry file="file://$PROJECT_DIR$/static/templates/promospace.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="79" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
+        <state line="9" column="6" selection-start="496" selection-end="496" vertical-scroll-proportion="0.24489796">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+    <entry file="file://$PROJECT_DIR$/static/js/plugins.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="121" column="0" selection-start="1464" selection-end="1464" vertical-scroll-proportion="0.0">
+        <state line="12" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.31454784">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/templates/sharedcontacts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="1557" selection-end="1557" vertical-scroll-proportion="-17.142857">
+        <state line="24" column="0" selection-start="1557" selection-end="1557" vertical-scroll-proportion="0.02770083">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/site.html">
+    <entry file="file://$PROJECT_DIR$/static/templates/fourblocks.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="0" selection-start="2416" selection-end="2416" vertical-scroll-proportion="33.57143">
+        <state line="11" column="79" selection-start="486" selection-end="486" vertical-scroll-proportion="0.2993197">
           <folding />
         </state>
       </provider>
@@ -569,9 +345,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/templates/promospace.html">
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="98" selection-start="349" selection-end="349" vertical-scroll-proportion="0.108843535">
+        <state line="121" column="0" selection-start="1464" selection-end="1464" vertical-scroll-proportion="0.02621232">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="987" selection-end="1006" vertical-scroll-proportion="0.46258503">
           <folding />
         </state>
       </provider>

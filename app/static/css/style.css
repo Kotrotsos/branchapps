@@ -1,0 +1,204 @@
+
+/* OVERULED BOOTSTRAP STYLES */
+
+.btn {
+
+}
+
+
+/* Grid helpers */
+
+.marginreset {
+    margin:0;
+}
+
+.pull1 {
+    margin-left:-10px;
+}
+.pull2 {
+    margin-left:-20px;
+}
+
+.airtop10 {
+    padding-top:10px;
+}
+.airtop50 {
+    padding-top:50px;
+}
+
+/* xxxx */
+
+body {
+    min-width:760px;
+}
+
+
+.navbar {
+    background-color:#353a3d;
+    padding:3px;
+    height:20px;
+    padding-top:5px;
+
+}
+
+ol.products {
+    position:absolute;
+
+}
+ol.products a, ol.products a:visited {
+    color: #dbdbdb;
+}
+ol.products a:hover {
+    border-top:solid white 2px;
+    padding-top:5px;
+    text-decoration:none;
+}
+ol.products a.selected {
+    color:white;
+
+}
+
+ol.account {
+    position:absolute;
+    right:10px;
+    list-style: none;
+}
+
+ol.account a {
+    color:white;
+}
+
+ol.account a:hover {
+    border-top:solid white 2px;
+    padding-top:5px;
+    text-decoration:none;
+}
+
+.navbar ol li {
+    display:inline;
+    padding-right:20px;
+}
+
+.workbar {
+    background-color: #f7f7f7;
+    border-bottom:solid #dedede 1px;
+    padding-top:25px;
+    padding-left:25px;
+    height:45px;
+}
+
+.workbar .logo {
+z-index:9999;
+float:left;
+}
+.workbar .search {
+margin-top:-5px;
+
+    margin-left:200px;
+
+
+}
+.workbar .search button {
+    margin-top:-9px;
+    position:relative;
+    left:-60px;
+}
+.workbar input {
+    height:25px;
+    width:400px;
+}
+.workbar .toolbar {
+   position:absolute;
+    right:10px;
+    width:100px;
+    margin-top:-18px;
+
+}
+
+/*
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*/
+
+
+
+
+
+.orange { background-color:#ed6503; }
+.green { background-color:#68bd5b; }
+.blue { background-color:#1287ff; }
+.purple { background-color:#6a4ac1; }
+
+
+.rounded {
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+
+/* PRIMARY LAYOUT. APP
+
+l=left
+m=middle
+r=right
+
+*/
+
+.l {
+    float:left;
+    border-right: solid #D2D2D2 1px;
+
+    width: 260px;
+    min-height: 642px;
+}
+
+.l .commands {
+    border-bottom: dotted #D2D2D2 1px;
+    padding: 10px;
+}
+
+.m {
+    float:left;
+    top:80px;
+    padding: 10px;
+    width: 500px;
+    min-height: 642px;
+    z-index: -99;
+}
+.r {
+    float:right;
+    padding: 10px;
+
+    position:absolute;
+    right:0px;
+    min-height: 500px;
+    border-left: solid #D2D2D2 1px;
+    border-bottom: solid #D2D2D2 1px;
+    background-color: #FAFAFA;
+    z-index: 999;
+
+}
+
+@media (min-width: 468px) and (max-width: 790px) {
+
+    .l {
+        float:left;
+        border-right: solid #D2D2D2 1px;
+
+        width: 230px;
+        min-height: 642px;
+    }
+
+    .r {
+        -webkit-box-shadow: -1px 0px 4px 0px #ddd;
+        -moz-box-shadow: -1px 0px 4px 0px #ddd;
+        box-shadow: -1px 0px 4px 0px #ddd;
+    }
+
+}
